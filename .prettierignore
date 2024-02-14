@@ -1,0 +1,15 @@
+generators
+coverage
+build
+# fixtures
+LICENSE
+README.md
+.editorconfig
+.eslintignore
+.gitattributes
+.gitignore
+.gitkeep
+.prettierignore
+*.ejs
+*.snap
+*.env
